@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="22"
+   height="22"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="restore.svgz">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     id="namedview32"
+     showgrid="true"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="-28.376125"
+     inkscape:cy="14.294171"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="pressed-center"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3218"
+       empspacing="2"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4" />
+  <g
+     id="active-center"
+     inkscape:label="#g3851"
+     transform="translate(-29,3)">
+    <rect
+       y="-3"
+       x="-37"
+       height="22"
+       width="22"
+       id="rect3853"
+       style="opacity:0.00100002;fill:#ffffff;fill-opacity:0.44581496;fill-rule:nonzero;stroke:none" />
+    <path
+       transform="translate(-37,-3)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6da425;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99998008999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3807"
+       sodipodi:cx="11"
+       sodipodi:cy="11"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 16,11 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z" />
+  </g>
+  <g
+     transform="translate(-8,3)"
+     id="hover-center"
+     inkscape:label="#g3845">
+    <rect
+       y="-3"
+       x="-14"
+       height="22"
+       width="22"
+       id="rect3853-8"
+       style="opacity:0.00100002;fill:#ffffff;fill-opacity:0.44581496;fill-rule:nonzero;stroke:none" />
+    <circle
+       transform="translate(-14,-3)"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#8bcc38;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99998009;marker:none;enable-background:accumulate"
+       id="path3807-1"
+       cx="11"
+       cy="11"
+       r="5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#6da425;stroke-width:1.75352371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -5.3800358,6.8099821 -3,9.1900179 -0.61996421,6.8099821"
+       id="path4179"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="translate(-16,3)"
+     id="inactive-center"
+     inkscape:label="#g3857"
+     style="opacity:1">
+    <rect
+       y="-3"
+       x="-28"
+       height="22"
+       width="22"
+       id="rect3853-3"
+       style="opacity:0.00100002000000000;fill:#ffffff;fill-opacity:0.44581495999999998;fill-rule:nonzero;stroke:none" />
+    <path
+       transform="translate(-28,-3)"
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6da425;fill-opacity:0.60784313999999995;fill-rule:nonzero;stroke:none;stroke-width:1.99998008999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3807-9"
+       sodipodi:cx="11"
+       sodipodi:cy="11"
+       sodipodi:rx="5"
+       sodipodi:ry="5"
+       d="m 16,11 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z" />
+  </g>
+  <g
+     id="pressed-center"
+     transform="translate(0,3)"
+     inkscape:label="#g3841">
+    <rect
+       y="-3"
+       x="0"
+       height="22"
+       width="22"
+       id="rect3853-82"
+       style="opacity:0.00100002;fill:#ffffff;fill-opacity:0.44581496;fill-rule:nonzero;stroke:none" />
+    <circle
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#9ed458;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99998009;marker:none;enable-background:accumulate"
+       id="path3807-0"
+       transform="translate(0,-3)"
+       cx="11"
+       cy="11"
+       r="5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#7cbc2a;stroke-width:1.75352371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.619964,6.8099821 11,9.1900179 13.380036,6.8099821"
+       id="path4179-7"
+       inkscape:connector-curvature="0" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#active-center"
+     id="deactivated-center"
+     transform="translate(88,0)"
+     width="22"
+     height="22"
+     inkscape:label="#use3767"
+     style="opacity:0.17944251" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#active-center"
+     id="deactivated-inactive-center"
+     transform="translate(110,0)"
+     width="22"
+     height="22"
+     inkscape:label="#use3767"
+     style="opacity:0.13414634" />
+</svg>
