@@ -41,7 +41,7 @@ These are the programs, themes and dots I use on my linux machine.
 
 ## Installation
 
-I suggest you to go through configs and cherrypick what you need. Might be time consuming, but it will provide you a setup you're happy with.
+I suggest you to go through the configs and cherrypick what you need. Might be time consuming, but it will provide you a setup you're happy with.
 
 Though if you simply wish to clone my setup on your machine, the first step is to install the applications I use, on your distro. The major ones are listed above.
 
