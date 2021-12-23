@@ -26,6 +26,7 @@ These are the programs, themes and dots I use on my linux machine.
 | Plasma theme                        | [WhiteSur Dark Plasma](https://store.kde.org/p/1400409/) 
 | Plasma color scheme                        | [Adapta Nokto](https://store.kde.org/p/1191689/) 
 | Cursor theme                        | [McMojave Cursors](https://store.kde.org/p/1355701/)
+| SDDM theme                        | [Sugar Candy](https://store.kde.org/p/1312658)
 | System Font                        | [Inter](https://fonts.google.com/specimen/Inter)  
 | Global theme                          | Breath                                                                                                   
 | Code Editor                         | [VS Code](https://code.visualstudio.com/)                                                                                                     |
@@ -45,7 +46,7 @@ I suggest you to go through the configs and cherrypick what you need. Might be t
 
 Though if you simply wish to clone my setup on your machine, the first step is to install the applications I use, on your distro. The major ones are listed above.
 
-The themes I used for this rice are a custom modified version of AdaptaNokto and Flat OSX themes(all credits to their original creators, I simply mix and matched their elements. The original themes will be linked below). The custom versions of the aurorae and GTK themes are included in this repo and you can clone and paste them in the appropriate KDE theme folders to use them.
+The themes I used for this rice are a custom modified version of AdaptaNokto and Flat OSX themes(all credits to their original creators, I simply mix and matched their elements. The original themes will be linked below). The custom versions of the aurorae and GTK themes are included in this repo and you can clone and paste them in the appropriate KDE theme folders to use them. The SDDM Sugar Candy theme config file is also included if you want to replicate the look of my login screen.
 
 If you want a customized konsole like mine, the color scheme and the Konsole profile are included in this repo. Clone them into the appropriate Konsole config folders and you can get the same look as mine. And oh yeah, I use the starship prompt for that stylized prompt in Konsole. The starship prompt config will be included in this repo.
 
