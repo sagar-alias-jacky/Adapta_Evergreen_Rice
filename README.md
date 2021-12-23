@@ -2,9 +2,9 @@
 ![Banner](https://github.com/sagar-alias-jacky/Adapta_Evergreen_Rice/blob/main/art_assets/images/dotfiles.png?raw=true)
 ---
 
-Just got into linux ricing recently and I have been having a blast! This rice (I like to call it Adapta Evergreen) is kinda my first proper try at ricing. Hope you like it!
-
-These are the programs, themes and dots I use on my linux machine.
+<div style="text-align: justify">Just got into linux ricing recently and I have been having a blast! This rice (I like to call it Adapta Evergreen) is kinda my first proper try at ricing. Hope you like it!
+<br></br>
+These are the programs, themes and dots I use on my linux machine.<br></br></div>
 
 | Program                             | Name                                                                                                                           |
 | :---                                | :---                                                                                                                           |
@@ -42,17 +42,17 @@ These are the programs, themes and dots I use on my linux machine.
 
 ## Installation
 
-I suggest you to go through the configs and cherrypick what you need. Might be time consuming, but it will provide you a setup you're happy with.
-
+<div style="text-align: justify">I suggest you to go through the configs and cherrypick what you need. Might be time consuming, but it will provide you a setup you're happy with.
+<br></br>
 Though if you simply wish to clone my setup on your machine, the first step is to install the applications I use, on your distro. The major ones are listed above.
-
+<br></br>
 The themes I used for this rice are a custom modified version of AdaptaNokto and Flat OSX themes(all credits to their original creators, I simply mix and matched their elements. The original themes will be linked below). The custom versions of the aurorae and GTK themes are included in this repo and you can clone and paste them in the appropriate KDE theme folders to use them. The SDDM Sugar Candy theme config file is also included if you want to replicate the look of my login screen.
-
+<br></br>
 If you want a customized konsole like mine, the color scheme and the Konsole profile are included in this repo. Clone them into the appropriate Konsole config folders and you can get the same look as mine. And oh yeah, I use the starship prompt for that stylized prompt in Konsole. The starship prompt config will be included in this repo.
-
+<br></br>
 The wallpaper used along with some additional wallpapers that go well with this theme are attached in this repo.
-
-Spotify is themed using Spicetify(link below) and the theme used is Dribbblish(link below). 
+<br></br>
+Spotify is themed using Spicetify(link below) and the theme used is Dribbblish(link below).</div>
 
 ---
 
